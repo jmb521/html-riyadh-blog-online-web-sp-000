@@ -31,7 +31,7 @@ PARAGRAPH 2
 
 IMAGE 2 FILE
 
-`garden.jpg`
+``
 
 IMAGE 2 ALT TEXT
 
